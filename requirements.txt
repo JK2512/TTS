@@ -1,0 +1,8 @@
+
+torch
+torchvision
+torchaudio
+transformers
+scipy
+numpy
+soundfile

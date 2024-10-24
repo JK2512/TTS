@@ -1,0 +1,19 @@
+Python is a programming language.
+Machine Learning is a subset of AI.
+Deep Learning is a part of Machine Learning.
+Natural Language Processing is important for TTS.
+Python is a programming language.
+Machine Learning is a subset of AI.
+Deep Learning is a part of Machine Learning.
+Natural Language Processing is important for TTS.
+text
+"API"
+"CUDA"
+"TTS"
+"OAuth"
+"REST"
+"How does the API work?"
+"Can you explain CUDA in detail?"
+I love working with API and CUDA.
+REST API is important in web development.
+OAuth is used for authorization.
